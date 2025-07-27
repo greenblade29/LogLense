@@ -11,5 +11,8 @@ dependencies = [
     "rich",
 ]
 
+[tool.setuptools]
+packages = ["loglense_package"]
+
 [project.scripts]
 loglense = "loglense_package.main:app"
