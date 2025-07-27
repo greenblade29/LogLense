@@ -7,8 +7,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/loglense.svg)](https://pypi.org/project/loglense/)
-[![Downloads](https://pepy.tech/badge/loglense)](https://pepy.tech/project/loglense)
-[![GitHub stars](https://img.shields.io/github/stars/greenblade/loglense.svg?style=social&label=Star)](https://github.com/greenblade/loglense)
+[![Downloads](https://img.shields.io/pypi/dm/loglense)](https://pypi.org/project/loglense/)
 
 *Transform cryptic log files into actionable insights with the power of AI*
 
