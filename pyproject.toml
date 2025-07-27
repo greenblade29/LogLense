@@ -1,0 +1,15 @@
+[project]
+name = "loglense"
+version = "0.1.0"
+description = "An AI-powered log summarizer for the command line."
+dependencies = [
+    "typer[all]",
+    "google-generativeai",
+    "openai",
+    "anthropic",
+    "litellm",
+    "rich",
+]
+
+[project.scripts]
+loglense = "loglense_package.main:app"
